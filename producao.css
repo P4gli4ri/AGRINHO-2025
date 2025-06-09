@@ -19,3 +19,12 @@ body{
     margin: 0 auto;
     height: 30%;
 }
+.plantacao img{
+    border-radius: 20px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}

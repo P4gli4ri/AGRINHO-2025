@@ -14,8 +14,20 @@ body{
 .cabecalho h3{
    color: rgb(206, 206, 8);
 }
+
 .agua{
-     width: 40%;
+    width: 40%;
     margin: 0 auto;
     height: 30%;
+}
+
+p .alinha{
+    text-align: right;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
 }
