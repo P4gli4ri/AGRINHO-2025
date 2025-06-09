@@ -14,3 +14,8 @@ body{
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
+.plantacao{
+    width: 40%;
+    margin: 0 auto;
+    height: 30%;
+}
