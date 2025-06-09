@@ -14,4 +14,8 @@ body{
 .cabecalho h3{
     color: rgb(206, 206, 8);
 }
+.carossele{
+    width: 50%;
+    margin: 0 auto;
 
+}
